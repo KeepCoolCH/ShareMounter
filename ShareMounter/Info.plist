@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>SMPrivilegedExecutables</key>
+	<dict>
+		<key>SMPrivilegedExecutables</key>
+		<dict>
+			<key>ShareMounter.helper</key>
+			<string>anchor apple generic and identifier &quot;ShareMounter.helper&quot; and certificate leaf[subject.OU] = &quot;XGML8UWPSC&quot;</string>
+		</dict>
+	</dict>
+	<key>LSUIElement</key>
+	<true/>
+</dict>
+</plist>
