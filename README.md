@@ -28,7 +28,7 @@ Version **1.0** – developed by **Kevin Tobler** 🌐 [www.kevintobler.ch](http
 - 💡 **Status Monitoring** – shows mount state in the menu bar  
 - 💾 **Auto-Mount at Login** – keep all shares ready automatically  
 - 🔔 **Notifications** when a connection is lost or restored  
-- 🧩 **SwiftUI Interface** optimized for macOS Sequoia 15.6+ 
+- 🧩 **SwiftUI Interface** optimized for macOS Sonoma 14.6+ 
 - 🌙 **Sleep/Wake Detection** for stable mounts  
 
 ---
