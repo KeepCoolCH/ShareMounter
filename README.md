@@ -57,7 +57,7 @@ Version **1.0** – developed by **Kevin Tobler** 🌐 [www.kevintobler.ch](http
 4. Add your network drives and credentials  
 5. Done — your shares will mount automatically!  
 
-> 🧱 Requires macOS 15.6 Sequoia or newer
+> 🧱 Requires macOS 14.6 Sonoma or newer
 
 ---
 
